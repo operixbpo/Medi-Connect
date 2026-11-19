@@ -1,0 +1,194 @@
+﻿
+MediConnect Website Revision Plan
+Page content and shareable preview plan
+16 November 2026  |  Version 2 of the content plan
+Purpose and direction
+This plan defines the next website revision for MediConnect Malaysia. It brings together the proposed pages, section content, visitor actions, visual direction and delivery priorities following the review of five medical travel websites. The business team and developer can use it to agree the next design and implementation scope.
+Keep the approved blue and grey identity, large care images, subtle Kuala Lumpur skyline and patient journey. Make the service clearer at first glance, strengthen hospital information and introduce real people, transparent planning and practical family support.
+This is the specification for the next revision. New features described here are planned; they are not yet implemented in the existing HTML draft. Website content remains in simple English, with Bengali planned later.
+Main changes from the earlier plan
+Replace the abstract opening headline with a direct description of medical care in Malaysia and support from Bangladesh.
+Expand every hospital profile to a consistent level of detail and replace generic building graphics with approved photography.
+Add About MediConnect and Costs and Planning pages.
+Create a short guided visit enquiry and a clear route for visitors who do not know where to start.
+Develop hospital and accommodation information together, then add verified treatment pages in a later phase.
+What remains
+Appointment coordination, treatment planning support, visa assistance, airport pickup and accommodation remain the core service story. Keep the four-stage journey, office locations, hospital care gallery, callback form and contact options. Review service availability before publishing commitments.
+How the plan should be used
+Approve the page structure and copy direction first. Collect the business and hospital information listed in this document, implement the next HTML revision, then publish a review preview. Connect real enquiries and complete final checks before the public business launch.
+
+1  Website structure and navigation
+Page
+Content scope
+Revision priority
+Home
+Service introduction, needs, care images, hospitals, journey, family and trust.
+First revision
+Why Malaysia
+Hospital options and practical planning for Bangladeshi patients.
+First revision
+Hospitals
+Directory with useful, verified hospital summaries.
+First revision
+Hospital profiles
+Individual pages for Sunway, Gleneagles KL, Pantai KL and Prince Court.
+First revision
+Our Services
+What we coordinate, what patients receive and who confirms each arrangement.
+First revision
+Your Journey
+Preparation, arrival, stay, return and questions.
+Retain and refine
+About MediConnect
+Company, real team, offices and operating approach.
+New in first revision
+Costs and Planning
+Hospital estimates, travel costs and coordination fees.
+Second priority
+Plan My Visit and Contact
+Guided enquiry, callback, calls, WhatsApp and office details.
+Second priority
+Treatment pages
+Selected specialties with verified hospital information.
+Later phase
+Navigation
+Desktop navigation: Why Malaysia, Hospitals, Our Services, Your Journey and About. The logo returns to Home. A prominent “Plan My Visit” button opens the enquiry flow. Place Costs and Planning within the planning links and Contact in the header utility area and footer. Keep the mobile menu short and clearly labelled.
+Shared actions and footer
+Use “Explore Hospitals” for research and “Plan My Visit” for starting an enquiry. Hospital pages use “Ask About an Appointment”. Provide Call and WhatsApp controls on mobile without covering content. Live Chat should show actual availability; use a callback option when offline.
+The footer includes office locations, verified contact details, Costs and Planning, Contact, Privacy and service terms. Add the language switch only when the Bengali pages are ready.
+
+2  Homepage content in reading order
+Opening section
+Headline: “Medical care in Malaysia. Support from Bangladesh.” Body: “We help coordinate hospital appointments, treatment estimates, visa assistance, airport pickup and accommodation.”
+Content and presentation: Show a calm care scene with the afternoon skyline as a subtle supporting element.
+Action: Primary: “Plan My Visit”. Secondary: “Explore Hospitals”.
+Choose your starting point
+Heading: “What would you like help with?”
+Content and presentation: Five choices: Hospital appointment; Second opinion; Treatment planning; Health check-up; I am not sure where to start.
+Action: Carry the selected need into the enquiry form.
+Explore hospitals
+Heading: “Find out where your care could begin.”
+Content and presentation: Show three or four hospital cards with a real photograph, city, verified care areas and international patient support.
+Action: “View Hospital” opens the complete profile.
+Hospital care gallery
+Heading: “Modern care. Personal attention.”
+Content and presentation: Show consultation or nursing care, modern diagnostic equipment, and a comfortable patient and family scene. Identify generated images as illustrative. Specific facility claims require actual hospital evidence.
+Your journey
+Heading: “Support before you travel and after you arrive.”
+Content and presentation: Four stages: Before travel; Arrival; During your stay; Back home. Each reveals the support tasks and who handles them.
+Action: “See Your Journey” opens the full page.
+Family and budget planning
+Headings: “Make room for the people beside you.” and “Understand the costs before you confirm.”
+Content and presentation: Show accommodation and pickup support, then separate hospital care, travel and stay, and coordination fees.
+Action: Link to services and Costs and Planning.
+Meet MediConnect
+Heading: “Start with a conversation in Bangladesh.”
+Content and presentation: Use real team and office photographs. Show Banani, Kalabagan and Chattogram, with office visits by arrangement.
+Action: “Meet Our Team” opens About; “Request a Callback” opens Contact.
+Finish with a short FAQ and a clear enquiry action. Keep secondary detail on inner pages so the homepage remains easy to scan.
+
+3  Hospital and treatment information
+Hospital directory
+Headline: “Explore hospitals in Malaysia.” Intro: “Learn about the hospitals, their care areas and the practical details of planning a visit.” Each card includes the exact hospital name, city, approved image, relevant verified departments and an enquiry route. Add city and specialty filters only when the supporting data is complete.
+Hospital profile section order
+Overview: hospital name, city, address, introduction and approved exterior or interior photography.
+Care areas: verified departments and links to official specialist information. Avoid unsupported rankings or success rates.
+International patient support: enquiry coordination, report review process, appointment arrangements and available language help. Identify who provides each service.
+Inside the hospital: approved photographs of rooms, consultation spaces and relevant facilities, with accurate captions.
+Planning your visit: location, accommodation options, accessibility, local transport and family considerations.
+Estimate and appointment: explain what information the hospital may request and how its team confirms the appointment or treatment estimate.
+Questions: reports, accompanying family, stay planning, payments and follow-up. End with “Ask About an Appointment”.
+Hospital and stay feature
+Within each profile, introduce nearby accommodation once verified. Each listing should show real photographs, approximate travel time and transport mode, room arrangements, kitchenette availability, lift or wheelchair access and enquiry details. Availability and price must be confirmed for the visitor’s dates. A map can connect the hospital and accommodation options.
+Later treatment pages
+Start with a small set of verified care areas, potentially Heart Care, Cancer Care, Orthopaedics and Health Screening. Each page explains the department in plain language, lists relevant hospitals, describes the enquiry and report-review process, and links to a coordinator. Clinical advice and treatment eligibility come from the treating team.
+Information needed before publication
+Confirm each hospital relationship, approved wording, available departments, image permissions and the source and review date of factual details. A directory listing does not by itself establish a partnership. Give all four initial hospital profiles the same editorial standard.
+
+4  Malaysia services journey and trust
+Why Malaysia
+Headline: “Get to know Malaysia before you plan your care.” Build this page around the hospital options we support and the everyday questions of patients travelling from Bangladesh. Show verified information on food and prayer facilities, language support, nearby stays, accessibility and local travel. Explain which arrangements vary by hospital or property.
+Include “Questions to ask before choosing”: relevant specialist, report review, proposed stay, estimate inclusions, family support and follow-up. Avoid blanket claims that Malaysia is always cheaper or better. Link each practical topic to a hospital, service or coordinator.
+Our Services
+Headline: “Practical help at every stage.” Use six service sections: hospital appointments; treatment and estimate coordination; visa assistance; arrival and local transport; accommodation and family arrangements; follow-up coordination. For each, explain what we arrange, what information is needed, what confirmation the patient receives and any applicable fee.
+Example appointment copy: “Tell us the hospital or care area you are considering. We help coordinate your enquiry and appointment request. The hospital confirms the appointment.” Surgery planning is subject to the hospital’s clinical assessment; visa decisions remain with the relevant authority.
+Your Journey
+Before travel: discuss needs, arrange hospital enquiry, request appointment and estimate, prepare travel documents and agree accommodation.
+Arrival: confirm pickup details, the receiving contact and transport to the agreed destination.
+During the stay: coordinate agreed appointment logistics, local transport and practical family support.
+Back home: help coordinate the hospital’s follow-up arrangements and any further appointment enquiries.
+Retain the preparation checklist and FAQ. Make the sequence clear without implying a fixed treatment duration or guaranteed outcome.
+About MediConnect
+Headline: “Meet the people helping you plan your care.” Explain the company’s purpose, real team members and roles, the three Bangladesh locations and how Malaysia-side support is arranged. Use actual photographs and verified contact details. State that Kalabagan visits are by prior arrangement.
+Meeting photographs may be shown with accurate captions and dates. Do not present a consulate meeting as an endorsement or an expected partnership as confirmed. Add consented patient stories when they become available; do not invent reviews or patient identities.
+
+5  Costs enquiry and contact
+Costs and Planning
+Headline: “Understand your costs before you confirm.” Intro: “We help you separate hospital costs, travel arrangements and coordination fees so you can plan with clearer information.”
+Cost group
+Information to show
+Hospital care
+Hospital-issued estimate, currency, date, inclusions, exclusions and factors that may change the final bill.
+Travel and stay
+Flights, visa-related expenses, accommodation, airport transfer and local transport, with quote validity where available.
+MediConnect support
+Service scope, applicable coordination fee, payment recipient and cancellation terms.
+Primary action: “Request a Cost Estimate”. Start with enquiry-based estimates. Do not add a numerical treatment calculator until reliable, maintained data and clear assumptions are available. Explain who issues each quote and who receives each payment.
+Guided visit enquiry
+Headline: “Let us help you plan your visit.” Keep the flow short, with a visible progress indicator, a Back button and a review screen before submission.
+Step 1: What help do you need? Appointment, second opinion, treatment planning, health check-up or not sure.
+Step 2: Have you chosen a hospital? Select a listed hospital or “I need help exploring options”.
+Step 3: Travel context. Departure city, accompanying family count and optional preferred travel period. Allow “Not decided”.
+Step 4: Contact. Name, phone, preferred contact method and convenient time. Include contact consent.
+Step 5: Review and send. Show a plain-language summary the visitor can correct before sending.
+Confirmation copy: “Thank you. Your enquiry has been received.” Show this only after a successful submission. Explain the next step and actual service hours. If sending fails, preserve the entered details and provide an alternative contact route. An enquiry is not an appointment confirmation.
+Contact and callback
+Keep a simpler callback form for visitors who do not want the guided flow: name, city, phone, help needed, convenient time and consent. Include verified office addresses, map links and visit arrangements. Official Call and WhatsApp links must work on mobile. Connect Live Chat only when staffing is defined.
+Do not request medical reports in the initial form. Arrange a separate consent-based, secure sharing process for reports requested by the hospital. The existing prototype form and chat remain demonstrations until connected.
+
+6  Visual direction and delivery priorities
+Visual direction
+Keep the approved stacked MediConnect logo, blue and light grey palette, warm white backgrounds and restrained motion. Use the Kuala Lumpur skyline as context. Give care, facilities, people and practical arrangements the strongest visual presence.
+Placement
+Image requirement
+Homepage opening
+Calm care or coordination scene; subtle afternoon skyline.
+Hospital profiles
+Approved photographs of the named hospital and its actual facilities.
+Care gallery
+Personal attention, modern equipment and family comfort; generated scenes labelled illustrative.
+Journey and stay
+Arrival, transport and accommodation scenes; identify actual versus illustrative material.
+About and offices
+Real team and office photographs with accurate identities.
+Do not use generated people as testimonials or staff. Use readable text, useful image descriptions and keyboard-accessible controls. Keep mobile contact controls clear of page content. Optimise images so large visual sections do not make the site slow.
+Implementation sequence
+First revision: rewrite the homepage opening, strengthen Why Malaysia, complete the hospital directory and four profiles, and add About MediConnect.
+Second priority: add Costs and Planning, guided enquiry and a clearer contact flow. Connect real communication channels after the operating details are confirmed.
+Later: verified hospital and stay listings, selected treatment pages, Bengali translation, real patient stories and specialist information.
+Business inputs required
+Registered name; team names and roles; office addresses and hours; official phone, WhatsApp and email; service scope and fees; Malaysia-side arrangements; approved hospital facts and images; privacy and service terms; enquiry recipient and response responsibilities.
+Acceptance checks
+Every page and button should lead to the intended destination. Hospital enquiries should retain the hospital name. Check forms, menus and images on phone and desktop. Distinguish appointment requests from confirmed bookings, and test enquiry delivery before representing the site as operational.
+Next deliverable
+Build the revised multi-page HTML preview from this plan, then provide a hosted review link. The Word document can be shared immediately; publishing the website is a separate delivery step.
+
+7  Sharing the website and reference links
+Why the current link cannot be shared
+The 127.0.0.1 or localhost address points to the computer on which the website server is running. On another person’s device it points to their device, not yours. A hosted preview places the website files online so reviewers can open a normal web link without your laptop staying on.
+Recommended quick review option
+Use Netlify to host the static design preview. Its documented drag-and-drop workflow accepts a folder containing the HTML, CSS, JavaScript and assets and provides a preview URL. A custom domain is not necessary for this review step. Future revisions can be uploaded again or connected to a Git repository. Account setup and current plan limits should be checked when publishing.
+GitHub based alternative
+GitHub Pages publishes static website files from a GitHub repository. This suits a code-based handover and ongoing version tracking. It can use a github.io address or a custom domain. Repository visibility, account plan and intended use should be checked before selecting the final hosting setup.
+Preview publishing steps
+Finish the revised HTML and gather all required images and assets in the publishing folder.
+Confirm the hosting account and whether the review should be public or access-restricted. A hard-to-guess link is not access control.
+Publish a clearly labelled design preview and test all pages and mobile layouts at the hosted URL.
+Share the resulting link. Keep sample forms and chat labelled as previews until real services are connected.
+A ZIP file is also shareable, but recipients must extract and open or serve it locally. For easy review across phones and laptops, a hosted link is the preferred option. No new hosted website is created by this document.
+Reference websites reviewed
+SEOK — https://seok.com.bd/Medical Tourism BD — https://www.medicaltourismbd.com/My1Health hospital profile — https://my1health.com/hospital/thailand/bangkok/bumrungrad-international-hospitalBangla Health Connect — https://www.banglahealthconnect.com/treatment-in-thailandThai Medi Xpress — https://thaimedixpress.com/
+These references inform content structure and enquiry design; their commercial claims are not adopted as verified facts for MediConnect.
+Hosting documentation
+Netlify — https://docs.netlify.com/deploy/create-deploys/GitHub Pages — https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages
+
